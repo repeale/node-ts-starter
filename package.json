@@ -13,6 +13,12 @@
   "keywords": [],
   "author": "Alessio Enrico Repetti <repeale@gmail.com>",
   "license": "MIT",
+  "dependencies": {
+    "apollo-server-core": "3.6.6",
+    "apollo-server-express": "3.6.6",
+    "express": "4.17.3",
+    "graphql": "16.3.0"
+  },
   "devDependencies": {
     "@repeale/eslint-config": "1.5.0",
     "@repeale/prettier-config": "1.0.7",
