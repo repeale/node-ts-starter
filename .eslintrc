@@ -1,0 +1,3 @@
+{
+  "extends": "@repeale/eslint-config/ts-prettier"
+}
